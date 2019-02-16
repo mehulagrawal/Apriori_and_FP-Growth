@@ -1,6 +1,6 @@
-# Apriori and FP-Growth in Python
+# Apriori and FP-Growth in Python 3
 
-This is a complete and original implementation of Apriori and FP-Growth algorithms in python. Frequent itemsets and Association rules for different values of support and confidence for the groceries.csv dataset have been added too.
+This is a complete and original implementation of Apriori and FP-Growth algorithms in python 3. Frequent itemsets and Association rules for different values of support and confidence for the groceries.csv dataset have been added too.
 
 ## Authors:
 1. [Mehul Agrawal](https://www.linkedin.com/in/mehul-agrawal/)
