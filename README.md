@@ -3,8 +3,8 @@
 This is a complete and original implementation of Apriori and FP-Growth algorithms in python. Frequent itemsets and Association rules for different values of support and confidence for the groceries.csv dataset have been added too.
 
 ## Authors:
-1. Mehul Agrawal
-2. Abhishek Dhanwani
+1. [Mehul Agrawal] (https://www.linkedin.com/in/mehul-agrawal/)
+2. [Abhishek Dhanwani] (https://www.linkedin.com/in/abhishek-dhanwani-93846b167/)
 3. Shah Vishakh Rakesh
 
 ## Dataset Used:
