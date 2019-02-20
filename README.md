@@ -10,4 +10,11 @@ This is a complete and original implementation of Apriori and FP-Growth algorith
 ## Dataset Used:
 [Groceries.csv](http://www.sci.csueastbay.edu/~esuess/classes/Statistics_6620/Presentations/ml13/groceries.csv)
 
-The groceries.csv file uploaded here has a header added to it for naming the columns from 1-32. (The longest transaction has 32 items).
+## Implementation
+### 1. Pre-Processing
+A header was added to the csv ranging from 1-32.
+### 2. Frequent item-set generation using Apriori
+### 3. Frequent item-set generation using FP-Growth (Faster than apriori)
+### 4. Association Rule Mining from generated frequent itemsets
+
+
