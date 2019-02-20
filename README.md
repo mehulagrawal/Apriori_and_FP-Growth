@@ -12,8 +12,8 @@ This is a complete and original implementation of Apriori and FP-Growth algorith
 
 ## List of Files
 1. Source
-1.1 Apriori.py
-1.2 FP-Growth.py
+1.1. Apriori.py
+1.2. FP-Growth.py
 2. Groceries.csv
 3. Results
 4. Report
