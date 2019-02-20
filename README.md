@@ -10,6 +10,15 @@ This is a complete and original implementation of Apriori and FP-Growth algorith
 ## Dataset Used:
 [Groceries.csv](http://www.sci.csueastbay.edu/~esuess/classes/Statistics_6620/Presentations/ml13/groceries.csv)
 
+##List of Files
+1. Source
+1.1 Apriori.py
+1.2 FP-Growth.py
+2. Groceries.csv
+3. Results
+4. Report
+
+
 ## Implementation
 ### 1. Pre-Processing
 A header was added to the csv ranging from 1-32.
